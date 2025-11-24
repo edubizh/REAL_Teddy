@@ -1,4 +1,5 @@
 # Teddy - Movie Tournament Decision App
+test
 
 ## Overview
 Teddy is a decision-making tournament application that helps friends select movies through a bracket-style tournament format. The app features a dark, cinematic theme similar to Netflix or IMDb.
